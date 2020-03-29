@@ -1,0 +1,9 @@
+p {
+    display: inline-block;
+    width: 350;
+
+}
+
+div p {
+    color: blue;
+}
